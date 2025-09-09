@@ -1,6 +1,5 @@
-Here is the full README content with the explicit Markdown syntax included, so you can copy and paste it directly.
 
-````
+
 # Rest Assured API Automation Framework 🚀
 
 This is a production-grade API automation framework designed to validate RESTful APIs efficiently and reliably. Built on a robust architecture, the framework prioritizes scalability, maintainability, and security, making it suitable for both small projects and large-scale enterprise applications.
@@ -68,4 +67,4 @@ This framework is built with **extensibility** in mind. Key areas for expansion 
 * **Continuous Integration**: Easily integrate into a CI/CD pipeline (e.g., Jenkins, GitLab CI) to automate test execution on every code commit.
 * **Parallel Execution**: Configure TestNG and Maven to run tests in parallel, significantly reducing execution time for large test suites.
 * **Enhanced Reporting**: Extend Allure reports with annotations like `@TmsLink` and `@Story` for improved test traceability.
-````
+
