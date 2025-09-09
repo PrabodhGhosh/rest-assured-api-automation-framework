@@ -1,0 +1,314 @@
+2025-09-06 23:34:21.560 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-06 23:34:21.953 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-06 23:34:21.978 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-06 23:34:24.559 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-06 23:34:24.576 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-06 23:34:24.585 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-06 23:36:38.419 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-06 23:36:38.885 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-06 23:36:38.937 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-06 23:36:54.617 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-06 23:36:54.624 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-06 23:36:55.183 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-06 23:36:55.185 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-06 23:36:55.240 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-06 23:49:28.973 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-06 23:49:29.752 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-06 23:49:29.822 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-06 23:49:34.860 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-06 23:49:34.865 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-06 23:49:35.964 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-06 23:49:35.967 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-06 23:49:36.000 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-06 23:50:59.403 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-06 23:51:00.257 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-06 23:51:00.316 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-06 23:51:05.012 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-06 23:51:05.016 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-06 23:51:06.540 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-06 23:51:06.543 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-06 23:51:06.578 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-06 23:56:14.826 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-06 23:56:15.700 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-06 23:56:15.769 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-06 23:56:21.718 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-06 23:56:21.723 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-06 23:56:22.502 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-06 23:56:22.505 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-06 23:56:22.549 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 18:53:09.596 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-07 18:53:09.735 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 18:53:10.407 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 18:53:10.448 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 18:53:13.738 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 18:53:13.743 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 18:53:14.196 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 18:53:14.198 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 18:53:14.233 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 18:53:46.558 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: staging
+2025-09-07 18:53:46.682 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 18:53:47.244 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 18:53:47.285 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 18:53:50.853 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 18:53:50.859 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 18:53:51.246 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 18:53:51.254 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 18:53:51.288 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 18:56:07.236 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: staging
+2025-09-07 18:56:07.445 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 18:56:08.329 [main] INFO  org.example.utils.ConfigManager - The base uri ishttps://jsonplaceholder.typicode.com
+2025-09-07 18:56:08.342 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 18:56:08.397 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 18:56:12.754 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 18:56:12.758 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 18:56:13.540 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 18:56:13.542 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 18:56:13.570 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 18:57:48.295 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: staging
+2025-09-07 18:57:48.305 [main] ERROR org.example.utils.ConfigManager - config.properties file not found in the classpath.
+2025-09-07 18:57:48.305 [main] ERROR org.example.utils.ConfigManager - Error loading config.properties file: config.properties file not found.
+2025-09-07 19:00:33.691 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: staging
+2025-09-07 19:00:33.805 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 19:00:34.341 [main] INFO  org.example.utils.ConfigManager - The base uri is https://staging-jsonplaceholder.typicode.com
+2025-09-07 19:00:34.341 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 19:00:34.391 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:00:36.839 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:00:36.842 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:00:36.905 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:00:36.908 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 19:00:36.997 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 19:01:00.048 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-07 19:01:00.251 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 19:01:01.208 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-07 19:01:01.224 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 19:01:01.297 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:01:07.197 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:01:07.203 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:01:07.946 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:01:07.951 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 19:01:07.974 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 19:16:38.991 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-07 19:16:39.144 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 19:16:39.666 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-07 19:16:39.675 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 19:16:39.716 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:16:43.984 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:16:44.007 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:16:44.665 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:16:44.671 [main] INFO  org.example.utils.JsonDataReader - Reading JSON data from file: src/test/resources/data/posts.json
+2025-09-07 19:16:44.685 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:16:45.604 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:16:45.607 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:16:46.057 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:16:46.060 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 19:16:46.068 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 19:37:20.089 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-07 19:37:20.262 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 19:37:20.996 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-07 19:37:21.010 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 19:37:21.072 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:37:26.112 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:37:26.119 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:37:26.511 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:37:26.522 [main] INFO  org.example.utils.JsonDataReader - Reading JSON data from file: src/test/resources/data/posts.json
+2025-09-07 19:37:26.545 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:37:27.012 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 19:37:27.054 [main] INFO  org.example.utils.ResponseValidator - API response time was 442 ms, which is within the 2000 ms threshold.
+2025-09-07 19:37:27.129 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:37:27.133 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:37:27.681 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 19:37:27.685 [main] INFO  org.example.utils.ResponseValidator - API response time was 537 ms, which is within the 2000 ms threshold.
+2025-09-07 19:37:27.803 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:37:27.807 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:37:28.590 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:37:28.593 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 19:37:28.603 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 19:43:55.864 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-07 19:43:55.995 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 19:43:56.710 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-07 19:43:56.723 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 19:43:56.796 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:44:01.689 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:44:01.695 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:44:02.441 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:44:02.446 [main] INFO  org.example.utils.JsonDataReader - Reading JSON data from file: src/test/resources/data/posts.json
+2025-09-07 19:44:02.469 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:44:03.475 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 19:44:03.581 [main] INFO  org.example.utils.ResponseValidator - API response time was 971 ms, which is within the 2000 ms threshold.
+2025-09-07 19:44:03.705 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:44:03.705 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:44:05.275 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 19:44:05.286 [main] INFO  org.example.utils.ResponseValidator - API response time was 1556 ms, which is within the 2000 ms threshold.
+2025-09-07 19:44:05.404 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:44:05.408 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:44:06.276 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:44:06.276 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 19:44:06.351 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 19:44:29.081 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-07 19:44:29.290 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 19:44:30.172 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-07 19:44:30.186 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 19:44:30.250 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:44:34.772 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:44:34.778 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:44:35.167 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:44:35.172 [main] INFO  org.example.utils.JsonDataReader - Reading JSON data from file: src/test/resources/data/posts.json
+2025-09-07 19:44:35.189 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:44:35.639 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 19:44:35.683 [main] INFO  org.example.utils.ResponseValidator - API response time was 422 ms, which is within the 2000 ms threshold.
+2025-09-07 19:44:35.730 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:44:35.743 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:44:36.161 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 19:44:36.165 [main] INFO  org.example.utils.ResponseValidator - API response time was 410 ms, which is within the 2000 ms threshold.
+2025-09-07 19:44:36.228 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:44:36.230 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:44:37.258 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:44:37.260 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 19:44:37.286 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 19:47:22.721 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-07 19:47:22.945 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 19:47:23.871 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-07 19:47:23.884 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 19:47:23.947 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:47:28.839 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:47:28.844 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:47:29.193 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:47:29.199 [main] INFO  org.example.utils.JsonDataReader - Reading JSON data from file: src/test/resources/data/posts.json
+2025-09-07 19:47:29.216 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:47:30.142 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 19:47:30.170 [main] INFO  org.example.utils.ResponseValidator - API response time was 897 ms, which is within the 2000 ms threshold.
+2025-09-07 19:47:30.306 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:47:30.309 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:47:30.719 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 19:47:30.724 [main] INFO  org.example.utils.ResponseValidator - API response time was 388 ms, which is within the 2000 ms threshold.
+2025-09-07 19:47:30.792 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:47:30.795 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:47:31.906 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:47:31.908 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 19:47:31.930 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 19:50:09.706 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-07 19:50:09.892 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 19:50:10.773 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-07 19:50:10.785 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 19:50:10.845 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:50:15.666 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:50:15.670 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:50:16.537 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:50:16.541 [main] INFO  org.example.utils.JsonDataReader - Reading JSON data from file: src/test/resources/data/posts.json
+2025-09-07 19:50:16.553 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:50:17.322 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 19:50:17.349 [main] INFO  org.example.utils.ResponseValidator - API response time was 747 ms, which is within the 2000 ms threshold.
+2025-09-07 19:50:17.391 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:50:17.393 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:50:18.138 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 19:50:18.141 [main] INFO  org.example.utils.ResponseValidator - API response time was 724 ms, which is within the 2000 ms threshold.
+2025-09-07 19:50:18.210 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:50:18.212 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 19:50:19.277 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 19:50:19.278 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 19:50:19.304 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-07 20:08:41.277 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-07 20:08:41.448 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-07 20:08:42.233 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-07 20:08:42.242 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-07 20:08:42.304 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 20:08:46.257 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 20:08:46.262 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 20:08:46.621 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 20:08:46.625 [main] INFO  org.example.utils.JsonDataReader - Reading JSON data from file: src/test/resources/data/posts.json
+2025-09-07 20:08:46.640 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 20:08:47.525 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 20:08:47.549 [main] INFO  org.example.utils.ResponseValidator - API response time was 864 ms, which is within the 2000 ms threshold.
+2025-09-07 20:08:47.605 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 20:08:47.607 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 20:08:48.190 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-07 20:08:48.192 [main] INFO  org.example.utils.ResponseValidator - API response time was 575 ms, which is within the 2000 ms threshold.
+2025-09-07 20:08:48.257 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 20:08:48.260 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-07 20:08:49.096 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-07 20:08:49.097 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-07 20:08:49.132 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-09 21:18:07.161 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-09 21:18:07.352 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-09 21:18:08.247 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-09 21:18:08.258 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-09 21:18:08.319 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:18:12.865 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:18:12.871 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:18:13.354 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:18:13.372 [main] INFO  org.example.utils.JsonDataReader - Reading JSON data from file: src/test/resources/data/posts.json
+2025-09-09 21:18:13.402 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:18:13.896 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-09 21:18:13.957 [main] INFO  org.example.utils.ResponseValidator - API response time was 440 ms, which is within the 2000 ms threshold.
+2025-09-09 21:18:14.095 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:18:14.098 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:18:14.539 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-09 21:18:14.544 [main] INFO  org.example.utils.ResponseValidator - API response time was 425 ms, which is within the 2000 ms threshold.
+2025-09-09 21:18:14.645 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:18:14.645 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:18:16.150 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:18:16.150 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-09 21:18:16.216 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-09 21:20:13.122 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-09 21:20:13.322 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-09 21:20:14.077 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-09 21:20:14.090 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-09 21:20:14.149 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:20:18.381 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:20:18.388 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:20:18.909 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:20:18.914 [main] INFO  org.example.utils.JsonDataReader - Reading JSON data from file: src/test/resources/data/posts.json
+2025-09-09 21:20:18.926 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:20:19.433 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-09 21:20:19.481 [main] INFO  org.example.utils.ResponseValidator - API response time was 481 ms, which is within the 2000 ms threshold.
+2025-09-09 21:20:19.624 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:20:19.630 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:20:20.150 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-09 21:20:20.153 [main] INFO  org.example.utils.ResponseValidator - API response time was 502 ms, which is within the 2000 ms threshold.
+2025-09-09 21:20:20.254 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:20:20.256 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:20:21.018 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:20:21.020 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-09 21:20:21.049 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-09 21:20:59.393 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-09 21:20:59.602 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-09 21:21:00.379 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-09 21:21:00.400 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-09 21:21:00.463 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:21:04.766 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:21:04.771 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:21:05.217 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:21:05.221 [main] INFO  org.example.utils.JsonDataReader - Reading JSON data from file: src/test/resources/data/posts.json
+2025-09-09 21:21:05.233 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:21:06.717 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-09 21:21:06.767 [main] INFO  org.example.utils.ResponseValidator - API response time was 1461 ms, which is within the 2000 ms threshold.
+2025-09-09 21:21:06.828 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:21:06.830 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:21:07.459 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-09 21:21:07.463 [main] INFO  org.example.utils.ResponseValidator - API response time was 608 ms, which is within the 2000 ms threshold.
+2025-09-09 21:21:07.550 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:21:07.552 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:21:08.267 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:21:08.269 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-09 21:21:08.300 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.
+2025-09-09 21:24:45.476 [main] INFO  org.example.utils.ConfigManager - Loading configuration for environment: dev
+2025-09-09 21:24:45.671 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeSuite: Global test suite setup.
+2025-09-09 21:24:46.514 [main] INFO  org.example.utils.ConfigManager - The base uri is https://jsonplaceholder.typicode.com
+2025-09-09 21:24:46.533 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeTest: Test group setup.
+2025-09-09 21:24:46.597 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:24:53.073 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:24:53.089 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:24:53.709 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:24:53.722 [main] INFO  org.example.utils.JsonDataReader - Reading JSON data from file: src/test/resources/data/posts.json
+2025-09-09 21:24:53.757 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:24:54.786 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-09 21:24:54.861 [main] INFO  org.example.utils.ResponseValidator - API response time was 983 ms, which is within the 2000 ms threshold.
+2025-09-09 21:24:55.012 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:24:55.019 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:24:55.449 [main] INFO  org.example.utils.ResponseValidator - Response received with success status code: 201
+2025-09-09 21:24:55.453 [main] INFO  org.example.utils.ResponseValidator - API response time was 414 ms, which is within the 2000 ms threshold.
+2025-09-09 21:24:55.546 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:24:55.553 [main] INFO  org.example.utils.ConfigManager - Executing @BeforeMethod: Test method setup.
+2025-09-09 21:24:56.655 [main] INFO  org.example.utils.ConfigManager - Executing @AfterMethod: Test method teardown.
+2025-09-09 21:24:56.660 [main] INFO  org.example.utils.ConfigManager - Executing @AfterTest: Test group teardown.
+2025-09-09 21:24:56.728 [main] INFO  org.example.utils.ConfigManager - Executing @AfterSuite: Global test suite teardown.

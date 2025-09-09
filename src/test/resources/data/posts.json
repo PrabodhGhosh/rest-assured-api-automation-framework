@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Post from a Test",
+    "body": "This is the first test post.",
+    "userId": 1
+  },
+  {
+    "title": "Another Test Post",
+    "body": "This one is for data-driven testing.",
+    "userId": 2
+  }
+]
